@@ -3,4 +3,4 @@
 hello odin!
 
 
-pueshed from R
+pueshed from RsTUDIO
